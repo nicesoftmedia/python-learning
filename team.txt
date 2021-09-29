@@ -1,6 +1,6 @@
-Leader: Indrawan BePe
-Asisten: Endang
+Leader: IBe
+Teacher: Endang
 Code: Wanda
 Supervisor: Sofi
-Desainer: Hidan
+Designer: Hidan
 Tester: Mizan
